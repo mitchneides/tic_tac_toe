@@ -10,4 +10,6 @@ Quick start:
 2. Open index.html in the web browser of your choice.
 3. Enjoy!
 
-Screenshot: https://raw.githubusercontent.com/mitchneides/tic_tac_toe/master/screenshot.png
+[Screenshot] (https://raw.githubusercontent.com/mitchneides/tic_tac_toe/master/screenshot.png)
+
+[Demo] (https://mitchneides.github.io/)
